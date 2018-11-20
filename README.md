@@ -10,20 +10,20 @@
 	- run the program
 ## File list 
 	- chest1.txt
-    chest2.txt
-    chest3.txt
-    chest4.txt
-    chest5.txt
-    InvalidTreasureException.class
-    InvalidtreasureException.ctxt
-    InvalidTreasureException.java
-    TCFileDrv.java
-    Treasure.class
-    Treasure.ctxt
-    Treasure.java
-    TreasureChest.class
-    TreasureChest.ctxt
-    TresureChest.java
+          chest2.txt
+          chest3.txt
+          chest4.txt
+          chest5.txt
+          InvalidTreasureException.class
+          InvalidtreasureException.ctxt
+          InvalidTreasureException.java
+          TCFileDrv.java
+          Treasure.class
+          Treasure.ctxt
+          Treasure.java
+          TreasureChest.class
+          TreasureChest.ctxt
+          TresureChest.java
 ## Copyright 
 	- Copyright © 2016 by Andrew Peyton Albanese
 	All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.

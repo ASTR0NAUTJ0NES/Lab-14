@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=filepath
+comment0.target=TreasureChest(java.lang.String)
+comment0.text=\r\n\ The\ file\ designated\ by\ filepath\ must\ have\ the\ following\ format\:\ The\ first\r\n\ line\ contains\ one\ integer\ that\ designates\ the\ number\ of\ treasures\ in\ the\r\n\ file.\ Each\ subsequent\ line\ contains\ a\ text\ representation\ of\ a\ single\r\n\ treasure,\ referred\ to\ as\ treasureData\ in\ the\ Treasure\ class\ description.\r\n\ @see\ Treasure\r\n
+comment1.params=capacity
+comment1.target=TreasureChest(int)
+comment2.params=treasure
+comment2.target=int\ addTreasure(Treasure)
+comment3.params=
+comment3.target=int\ getCapacity()
+comment4.params=
+comment4.target=int\ getCount()
+comment5.params=
+comment5.target=double\ getTotalTreasureWeight()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

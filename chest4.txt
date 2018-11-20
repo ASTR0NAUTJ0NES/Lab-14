@@ -1,0 +1,4 @@
+3
+Sword,Jewelled sword crafted in Denmark circa 1640,3.7,600
+Doubloons,50 Gold Spanish Doubloon,8.2,16000
+Ink Jet Printer,HP 3755
